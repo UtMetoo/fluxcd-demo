@@ -16,5 +16,5 @@ spec:
         app: hello-world-flask
     spec:
       containers:
-      - image: pdream/hello-world-flask:latest
+      - image: pdream/hello-world-flask:v2
         name: hello-world-flask
